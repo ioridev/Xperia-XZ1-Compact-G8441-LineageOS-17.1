@@ -1,0 +1,2 @@
+open_gapps-arm64-10.0-pico-20220215.zip filter=lfs diff=lfs merge=lfs -text
+lineage-17.1-20240503-UNOFFICIAL-lilac.zip filter=lfs diff=lfs merge=lfs -text
